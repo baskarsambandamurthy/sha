@@ -1,1 +1,1 @@
-jupyter trust *.ipynb
+jupyter trust */*.ipynb

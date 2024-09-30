@@ -1,2 +1,2 @@
 numpy
-pyplot
+plotly
